@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.springframework.context.support.ClassPathXmlApplicationContext.ClassPathXmlApplicationContext(configLocations)" />
+      </blacklist>
+    </blacklists>
+    <option id="sql.show.column.names.in.insert.values" value="false" />
+  </component>
+</application>
