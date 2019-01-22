@@ -449,6 +449,22 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GO_EXPORTED_INTERFACE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="d197d9" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="d197d9" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_INTERFACE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="d096d8" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="d096d8" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="GO_PACKAGE">
       <value>
         <option name="FOREGROUND" value="abd7a4" />
