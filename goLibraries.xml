@@ -3,6 +3,7 @@
     <option name="urls">
       <list>
         <option value="file://C:/work/code/GoWorkspace" />
+        <option value="file://$USER_HOME$/Public/Go" />
       </list>
     </option>
   </component>
