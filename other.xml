@@ -1,0 +1,71 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ColorChooser.RecentColors" value="209-151-217-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6603774" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6205534" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="vg&#10;go" />
+    <property name="KEYMAP" value="move ca&#10;diagram" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JSON" />
+    <property name="PluginConfigurable.selectionTab" value="2" />
+    <property name="SettingsSearchHistory" value="buffer&#10;vgo&#10;format&#10;prox&#10;plug" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.56847364" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="go" />
+    <property name="Vcs.Log.Text.Filter.History" value="Kubelet manager configuration&#10;1.6.14" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="completion.stats.experiment.salt" value="dd66e3db" />
+    <property name="completion.stats.experiment.version" value="2" />
+    <property name="completion.stats.status.updated.ts" value="1542858981190" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="file.chooser.recent.files" value="D:/GoWorkspace/src/k8s.io/kubernetes&#10;D:/GoWorkspace/src/github.com/goodrain/rainbond&#10;D:/GoWorkspace/src/github.com/containous/traefik&#10;D:/code/go/traefik&#10;D:/code/go/athens&#10;D:/GoWorkspace/src/github.com/goharbor/harbor&#10;D:/GoWorkspace/src/k8s.io/kubernetes/staging&#10;D:/GoWorkspace/src/github.com/allblue/caih-cloud/main.go&#10;D:/GoWorkspace/src/github.com/zionwu/monitoring-manager&#10;D:/code/java/cattle&#10;D:/GoWorkspace/src/github.com/rancher/rancher&#10;D:/GoWorkspace/src/github.com/gomods/athens&#10;D:/GoWorkspace/src/github.com/kubernetes/dashboard&#10;D:/GoWorkspace/src/k8s.io/sample-controller&#10;D:/GoWorkspace/src/github.com/kubernetes/sample-controller&#10;D:/GoWorkspace/src/github.com/caicloud/loadbalancer-controller&#10;D:/GoWorkspace/src/github.com/kubeapps/kubeapps&#10;D:/code/go/prometheus&#10;D:/GoWorkspace/src/github.com/helm/monocular&#10;D:/GoWorkspace/src/github.com/Qihoo360/wayne&#10;D:/code/go/wayne&#10;D:/GoWorkspace/src/github.com/allblue/caih-cloud&#10;D:/GoWorkspace/src/github.com/alllblue/caih-cloud&#10;D:/code/go/caih-cloud&#10;D:/settings.zip&#10;D:/Downloads" />
+    <property name="file.gist.reindex.count" value="6208" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="find.popup.splitter" value="0.3361111" />
+    <property name="go.last.update.timestamp" value="1551054731838" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="selected.color.option.type" value="GO_EXPORTED_INTERFACE_REFERENCE" />
+    <property name="structural.search.match.case" value="true" />
+    <property name="structural.search.recursive" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.56556505" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.6993604" />
+    <property name="vcs.log.details.splitter.proportion" value="0.6585366" />
+    <property name="vcs.log.history.details.splitter.proportion" value="0.63882065" />
+  </component>
+</application>

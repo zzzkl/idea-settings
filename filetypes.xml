@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker file" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="201810181400" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker file" />
+    </extensionMap>
+  </component>
+</application>

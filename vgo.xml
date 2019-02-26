@@ -1,0 +1,13 @@
+<application>
+  <component name="vgo">
+    <proxies>
+      <list>
+        <option value="https://microsoftgoproxy.azurewebsites.net/" />
+        <option value="http://10.8.19.129:3000" />
+        <option value="http://10.18.19.129:3000" />
+        <option value="http://10.18.19.129" />
+        <option value="10.18.19.129" />
+      </list>
+    </proxies>
+  </component>
+</application>
